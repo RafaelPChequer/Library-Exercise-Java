@@ -1,6 +1,6 @@
 # TDD-Java-Biblioteca
 
-** Biblioteca de Gerenciamento de Livros
+# Biblioteca de Gerenciamento de Livros
 Este é um programa Java que implementa uma simples biblioteca de gerenciamento de livros. A biblioteca permite o registro de livros, membros e a realização de empréstimos e devoluções de livros para os membros.
 
 Classes
