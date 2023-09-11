@@ -3,7 +3,7 @@
 ## Biblioteca de Gerenciamento de Livros
 Este é um programa Java que implementa uma simples biblioteca de gerenciamento de livros. A biblioteca permite o registro de livros, membros e a realização de empréstimos e devoluções de livros para os membros.
 
-Classes
+## Classes
 Classe Biblioteca
 A classe Biblioteca é a principal do programa e possui os seguintes métodos:
 
