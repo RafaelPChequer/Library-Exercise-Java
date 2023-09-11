@@ -12,7 +12,7 @@ A classe Biblioteca é a principal do programa e possui os seguintes métodos:
 * public void registrarMembro(Membro membro): Registra um membro na biblioteca.
 * public List<Livro> getLivros(): Retorna a lista de livros disponíveis na biblioteca.
 * public boolean emprestarLivro(int livroId, int membroId): Realiza o empréstimo de um livro para um membro, com base nos IDs do livro e do membro.
-*public void retornarLivro(int livroId, int membroId): Realiza a devolução de um livro por um membro, com base nos IDs do livro e do membro.
+* public void retornarLivro(int livroId, int membroId): Realiza a devolução de um livro por um membro, com base nos IDs do livro e do membro.
 ### Classe Livro
 A classe Livro representa um livro e possui os seguintes métodos:
 
